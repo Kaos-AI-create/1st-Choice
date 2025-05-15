@@ -36,7 +36,7 @@ const Header: React.FC = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center">
             <h1 className="text-xl md:text-2xl font-bold text-white">
-              First Choices Insurance
+              First Choice Insurance Services
             </h1>
           </div>
 
