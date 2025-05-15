@@ -23,7 +23,7 @@ const testimonials: Testimonial[] = [
     rating: 5
   },
   {
-    quote: "After shopping around for months, First Choices found me coverage that was affordable and comprehensive. The staff is friendly and very knowledgeable.",
+    quote: "After shopping around for months, First Choice found me coverage that was affordable and comprehensive. The staff is friendly and very knowledgeable.",
     author: "Sarah T.",
     location: "New Braunfels, TX",
     rating: 5
